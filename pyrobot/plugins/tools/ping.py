@@ -7,9 +7,9 @@ from pyrobot import COMMAND_HAND_LER
 from pyrobot.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "ചത്തിട്ടില്ലാ..."
+ALIVE = "Hello Add Me On Your Group Then I Work I Am Unable ot Assist You Here  || Powered By - @DevsZones"
 HELP = "CAADAgAD6AkAAowucAABsFGHedLEzeUWBA"
-REPO = "User / Bot is available on GitHub:\n" "https://github.com/SpEcHiDe/PyroGramBot"
+REPO = "User / Bot is available on GitHub:\n" "https://github.com/TheShivansh/PyroGramBot"
 # -- Constants End -- #
 
 

@@ -34,7 +34,7 @@ async def save_note(client, message):
 
         if not note_name:
             await status_message.edit_text(
-                "എന്തിന്ന് ഉള്ള മറുപടി ആണ് എന്ന് വ്യക്തം ആക്കിയില്ല 🤔"
+                "It is not clear what the answer is"
             )
             return
 
